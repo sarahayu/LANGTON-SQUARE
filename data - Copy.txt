@@ -1,0 +1,4 @@
+width: 1364
+height: 760
+cellsize: 2.5
+iter-per-frame: 1
