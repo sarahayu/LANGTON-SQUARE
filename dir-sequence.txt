@@ -1,7 +1,6 @@
-1 1 -1 -1 -1 1 -1 -1 -1 1 1 1 
+1 -1 
 
-//-1 1
-
+// some examples of rules pulled from Wikipedia article
 // SQUARE
 // -1 1 1 1 1 1 -1 -1 1 
 // SYMMETRIC

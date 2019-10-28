@@ -1,4 +1,4 @@
 width: 200
 height: 200
-cellsize: 4.5
+cellsize: 2.5
 iter-per-frame: 50
